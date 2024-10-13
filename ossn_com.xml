@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Favicon Generator</name>
+    <id>FaviconGenerator</id>
+    <author>Core Team</author>
+    <description>Favicon Generator</description>
+    <license>Open Source Social Network License (OSSN LICENSE) v4.0</license>
+    <author_url>https://www.opensource-socialnetwork.org.com/</author_url>
+    <license_url>http://www.opensource-socialnetwork.org/licence</license_url>
+    <version>1.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>7.6</version>
+	</requires>
+	<requires>
+		<type>ossn_component</type>
+		<name>Favicons</name>
+		<comparator>disabled</comparator>
+	</requires>					
+</component>
